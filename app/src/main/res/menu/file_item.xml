@@ -54,4 +54,8 @@
     <item
         android:id="@+id/action_properties"
         android:title="@string/file_item_action_properties" />
+
+    <item
+        android:id="@+id/New_Item_For_Lab3"
+        android:title="New_Item_For_Lab3" />
 </menu>
